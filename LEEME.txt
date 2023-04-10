@@ -1,0 +1,19 @@
+Informacion de versiones:
+
+Version de PHP: 8.0.9
+Base de Datos: MySQL 8.0.25
+
+--------------------------------
+
+Programas utilizados:
+
+IDE: Visual Studio Code
+Modelacion base de datos: MySQL Workbench
+XAMPP 3.3.0: para la creacion de servidor Apache y conexion con base de datos
+
+--------------------------------
+
+Pasos a seguir (mi pc)
+
+mover la carpeta "formulario" a la ruta "C:\xampp\htdocs"(se crea una vez instalado XAMPP), 
+levantar MySQL y servidor Apache con XAMPP, entrar a la direccion web "http://localhost/formulario/index.php" 
